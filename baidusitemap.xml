@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://blog.rodzrk.cn//post/install-postgresql.html</loc>
+    <lastmod>2023-11-16</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.rodzrk.cn/about/index.html</loc>
+    <lastmod>2023-10-24</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.rodzrk.cn//post/janusgraph-index-problem.html</loc>
+    <lastmod>2023-10-24</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.rodzrk.cn//post/elasticsearch-scripting-module.html</loc>
+    <lastmod>2020-08-02</lastmod>
+  </url>
+</urlset> 
