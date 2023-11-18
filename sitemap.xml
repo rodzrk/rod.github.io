@@ -47,20 +47,6 @@
 
   
   <url>
-    <loc>https://blog.rodzrk.cn/tags/elasticsearch/</loc>
-    <lastmod>2023-11-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.rodzrk.cn/tags/postgresql/</loc>
-    <lastmod>2023-11-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.rodzrk.cn/tags/janusgraph/</loc>
     <lastmod>2023-11-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -74,10 +60,24 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://blog.rodzrk.cn/tags/postgresql/</loc>
+    <lastmod>2023-11-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.rodzrk.cn/tags/elasticsearch/</loc>
+    <lastmod>2023-11-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
-    <loc>https://blog.rodzrk.cn/categories/elasticsearch/</loc>
+    <loc>https://blog.rodzrk.cn/categories/janusgraph/</loc>
     <lastmod>2023-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -91,7 +91,7 @@
   </url>
   
   <url>
-    <loc>https://blog.rodzrk.cn/categories/janusgraph/</loc>
+    <loc>https://blog.rodzrk.cn/categories/elasticsearch/</loc>
     <lastmod>2023-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
